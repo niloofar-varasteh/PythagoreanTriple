@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Pythagorean_triple#/media/File:PrimitivePythagoreanTriplesRev08.svg
+https://en.wikipedia.org/wiki/Pythagorean_triple
+https://demonstrations.wolfram.com/PlottingPythagoreanTriples/
+https://demonstrations.wolfram.com/PrimitivePythagoreanTriples1ScatterPlot/
+https://demonstrations.wolfram.com/PrimitivePythagoreanTriplesOnACurvilinearGridDefinedByEuclid
